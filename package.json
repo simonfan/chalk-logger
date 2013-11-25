@@ -1,6 +1,6 @@
 {
   "name": "chalk-logger",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/chalk-logger.js",
   "description": "Wraps chalk in console logger for node.",
   "homepage": "https://github.com/simonfan/chalk-logger",
