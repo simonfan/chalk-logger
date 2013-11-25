@@ -1,0 +1,29 @@
+{
+  "name": "console-chalk",
+  "version": "0.0.0",
+  "main": "lib/console-chalk.js",
+  "description": "Wraps chalk in console logger for node.",
+  "homepage": "https://github.com/simonfan/console-chalk",
+  "bugs": "https://github.com/simonfan/console-chalk/issues",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonfan/console-chalk"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  },
+  "dependencies": {
+    "chalk": "~0.3.0"
+  }
+}
