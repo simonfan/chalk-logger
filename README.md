@@ -1,13 +1,13 @@
-# console-chalk [![Build Status](https://secure.travis-ci.org/simonfan/console-chalk.png?branch=master)](http://travis-ci.org/simonfan/console-chalk)
+# chalk-logger [![Build Status](https://secure.travis-ci.org/simonfan/chalk-logger.png?branch=master)](http://travis-ci.org/simonfan/chalk-logger)
 
 Wraps chalk in console logger for node.
 
 ## Getting Started
-Install the module with: `npm install console-chalk`
+Install the module with: `npm install chalk-logger`
 
 ```javascript
-var console-chalk = require('console-chalk');
-console-chalk.awesome(); // "awesome"
+var chalk-logger = require('chalk-logger');
+chalk-logger.awesome(); // "awesome"
 ```
 
 ## Documentation

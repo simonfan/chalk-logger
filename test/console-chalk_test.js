@@ -1,6 +1,6 @@
 'use strict';
 
-var console-chalk = require('../lib/console-chalk.js');
+var chalk-logger = require('../lib/chalk-logger.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -22,7 +22,7 @@ var console-chalk = require('../lib/console-chalk.js');
     test.ifError(value)
 */
 
-exports['console-chalk'] = {
+exports['chalk-logger'] = {
   setUp: function(done) {
     // setup here
     done();
@@ -30,7 +30,7 @@ exports['console-chalk'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(console-chalk.awesome(), 'awesome', 'should be awesome.');
+    test.equal(chalk-logger.awesome(), 'awesome', 'should be awesome.');
     test.done();
   }
 };

@@ -1,17 +1,17 @@
 {
-  "name": "console-chalk",
+  "name": "chalk-logger",
   "version": "0.0.0",
-  "main": "lib/console-chalk.js",
+  "main": "lib/chalk-logger.js",
   "description": "Wraps chalk in console logger for node.",
-  "homepage": "https://github.com/simonfan/console-chalk",
-  "bugs": "https://github.com/simonfan/console-chalk/issues",
+  "homepage": "https://github.com/simonfan/chalk-logger",
+  "bugs": "https://github.com/simonfan/chalk-logger/issues",
   "author": {
     "name": "",
     "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/simonfan/console-chalk"
+    "url": "https://github.com/simonfan/chalk-logger"
   },
   "licenses": [
     {
